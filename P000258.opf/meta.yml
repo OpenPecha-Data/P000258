@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །བློ་སྦྱོང་ལེགས་བཤད་ཀུན་འདུས་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། མཁན་ཆེན་ཨ་པད་རིན་པོ་ཆེ།
+  sku: IBA-MT-06-1
+  layers:
+  - book_title
+  - author
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: A Fine Compendium of Mind Training Instructions
+    bo: བློ་སྦྱོང་ལེགས་བཤད་ཀུན་འདུས།
+  collection:
+    en: IBA Mind Training Series–  Book 6
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་བློ་སྦྱོང་བསྟར་རིམ།–  དེབ། ༦
+  author:
+    en: Shakyai Gelong Khyenrab Loden
+    bo: ཤཱ་ཀྱའི་དགེ་སློང་མཁྱེན་རབ་བློ་ལྡན།
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-MT-06-1
+  category:
+    en: Mind Training
+    bo: བློ་སྦྱོང།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-MT-06-1.epub
+  description:
+    en: This commentary on Seven Points of Mind Training is enriched with manual instructions
+      of practicing Mahayana path.
+    bo: ཇོ་བོ་རྗེ་ནས་བརྒྱུད་པའི་ཐེག་ཆེན་ལམ་གྱི་མན་ངག་བློ་སྦྱོང་དོན་བདུན་མའི་འགྲེལ་པ་བཞུགས་སོ།
