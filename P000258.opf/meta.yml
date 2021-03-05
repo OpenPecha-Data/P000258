@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000258
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བློ་སྦྱོང་ལེགས་བཤད་ཀུན་འདུས་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། མཁན་ཆེན་ཨ་པད་རིན་པོ་ཆེ།
-  sku: IBA-MT-06-1
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: IBA-MT-06-1
 web_metadata:
   title:
     en: A Fine Compendium of Mind Training Instructions
